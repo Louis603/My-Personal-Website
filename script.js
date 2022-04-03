@@ -12,3 +12,7 @@ function setOldImage() {
     document.getElementById("imgMe").src = "sunset-1.jpg"
 
 }
+
+function testing() {
+    
+}
